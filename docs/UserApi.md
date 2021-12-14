@@ -1,6 +1,6 @@
 # TempApi.UserApi
 
-All URIs are relative to *https://wabli-solid-spoon.cyclopt.services:3011/v1*
+All URIs are relative to *http://83.212.100.226:3001/v1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
